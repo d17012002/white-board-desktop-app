@@ -23,3 +23,10 @@ Base Architecture
 - Now download the zip file of the repository. Or use `git clone <package-name>`.:sparkles:
 - Open a terminal in the `folder` directory or you can simply open the folder inside vscode and open the integrated terminal. Then run `npm i` this will simply install all the required npm packages.:sparkles:
 - After the installation is finished run `npm run start` and wait for couple of seconds and here you go!!:fire::fire:
+
+
+Demo Video: 
+
+
+https://user-images.githubusercontent.com/81901470/192254349-a9a7189c-3d06-4687-936c-5179044d4a9e.mp4
+
